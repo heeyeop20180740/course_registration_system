@@ -6,6 +6,7 @@ get_grade(linkedlist courses) {
 	linkedlist활용
 	cur = linkedlist->next;
 	수정1;
+	수정2;
 }
 make_grade_table() {
 	점수들과 과목을 매치하여 테이블을 만드는 함수
